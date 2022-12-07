@@ -1,0 +1,8 @@
+file_format: "1"
+id: litl
+name: Litl
+type: shield
+url: https://github.com/mohoyt/litl
+requires: [pro_micro]
+features:
+  - keys
